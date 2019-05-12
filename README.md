@@ -22,21 +22,27 @@ Nesse projeto você desenvolverá uma tela de Login como a ilustrada acima e Fee
 
 ### Dicas:
 
-- Para alinhar todo conteúdo de um componente ao centro basta unir as propriedades justifyContent: “center” e alignItems: “center” ;
+- Para alinhar todo conteúdo de um componente ao centro basta unir as propriedades `justifyContent: “center”` e `alignItems: “center”`;
 - Para uma melhor abordagem do conceito, acesse este link: https://facebook.github.io/react-native/docs/layout-props
 
 ##### Criando novo projeto
 
-- No Windows abra a pasta `perfil de usuário` e apartir dela abra o CMD, em seguida execute o seguite comando:
+- No Windows abra a pasta `perfil de usuário` - e apartir dela abra o CMD, em seguida execute o seguite comando:
 
-- `$ react-native init NomeDoProjeto` [Criando um novo projeto em react native].
+- `$ react-native init NomeDoProjeto` - _Criando um novo projeto em react native._
 
-* `$ cd NomeDoProjeto` [Acesse o projeto].
+* `$ cd NomeDoProjeto` - _Acesse o projeto._
 
-* `$ react-native run-android` (caso esteja utilizando o Mac react-native run-ios)
+* `$ adb connect IP_DO_EMULADOR:5555` _esse comando deve ser executado com emulador aberto, pra descubrir o IP de seu emulador bastar maximiza a janela do emulador, o seu IP será apresenta no cabeçalho._
+
+* `$ react-native run-android` - _(caso esteja utilizando o Mac react-native run-ios) esse processo de Build deve ser realizado com emulador aberto._
+
+- `$ react-native start` ou `yarn start` - _inicializar o projeto (deve ser executado na pasta do projeto)._
+
+- `$ react-native start --reset-cache` - _este comando rezeta o cache de memória do metro blund, na maioria das vezes resolve grande parte dos problemas._
 
 ### Entregar:
 
-- Esse desaﬁo precisa ser entregue até data 25/05/2019 às 23:59 (23 horas e 59 minutos), e receberá correção, mas você pode ver o resultado do código do desaﬁo feito por mim aqui:
+- Esse desaﬁo precisa ser entregue **até data 25/05/2019 às 23:59** (23 horas e 59 minutos), e receberá a correção, mas você pode ver o resultado do código da atividade feito por mim aqui: **Em brave**.
 - PS.: Tente fazer o desaﬁo sem olhar o código antes :)
 - PS2.: Após concluir o desaﬁo, adicionar esse código ao seu Github é uma boa forma de demonstrar seus conhecimentos para oportunidades futuras :D
