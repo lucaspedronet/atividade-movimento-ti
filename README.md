@@ -25,4 +25,18 @@ Nesse projeto você desenvolverá uma tela de Login como a ilustrada acima e Fee
 - Para alinhar todo conteúdo de um componente ao centro basta unir as propriedades justifyContent: “center” e alignItems: “center” ;
 - Para uma melhor abordagem do conceito, acesse este link: https://facebook.github.io/react-native/docs/layout-props
 
+##### Criando novo projeto
+
+- No Windows abra a pasta `perfil de usuário` e apartir dela abra o CMD, em seguida execute o seguite comando:
+
+- `$ react-native init NomeDoProjeto` [Criando um novo projeto em react native].
+
+* `$ cd NomeDoProjeto` [Acesse o projeto].
+
+* `$ react-native run-android` (caso esteja utilizando o Mac react-native run-ios)
+
 ### Entregar:
+
+- Esse desaﬁo precisa ser entregue até data 25/05/2019 às 23:59 (23 horas e 59 minutos), e receberá correção, mas você pode ver o resultado do código do desaﬁo feito por mim aqui:
+- PS.: Tente fazer o desaﬁo sem olhar o código antes :)
+- PS2.: Após concluir o desaﬁo, adicionar esse código ao seu Github é uma boa forma de demonstrar seus conhecimentos para oportunidades futuras :D
