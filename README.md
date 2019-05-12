@@ -12,10 +12,17 @@ Nesse projeto você desenvolverá uma tela de Login como a ilustrada acima e Fee
 
 **Atenção**: Não é obrigatório desenvolver o layout da tela de Feed, mas caso queira, você pode acessar [Tela Feed repositorios](./assets/Repositorios.png).
 
-### Metricas do Projeto:
-
 ### Regras:
 
+- O layout deve ser criado utilizando apenas os componentes `<View />` , `<Text />`, `<StyleSheet />`, `<StatusBar />`, `<TextInpu />` e `<TouchableOpacity />` do react-native; e `<Icon />` do react-native-vector-icons.
+- Você deve criar apenas um component com nome Login, este deve ser utilizado no component App (component principal).
+- O nome do usuário deve ser armazenado no estado do componente Login da sua aplicação.
+
+### Metricas do Projeto:
+
 ### Dicas:
+
+- Para alinhar todo conteúdo de um componente ao centro basta unir as propriedades justifyContent: “center” e alignItems: “center” ;
+- Para uma melhor abordagem do conceito, acesse este link: https://facebook.github.io/react-native/docs/layout-props
 
 ### Entregar:
