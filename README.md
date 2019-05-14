@@ -20,6 +20,21 @@ Nesse projeto você desenvolverá uma tela de Login como a ilustrada acima e Fee
 
 ### Metricas do Projeto:
 
+- Caso queira segui os padrões/metricas do Google - Android acesse [List](https://material.io/archive/guidelines/components/lists.html#lists-specs), [Card](https://material.io/archive/guidelines/components/cards.html#cards-content), [Layout Metrics & keylines](https://material.io/archive/guidelines/layout/metrics-keylines.html#metrics-keylines-keylines-spacing) e outros (List, Card, Header, Button e etc).
+- Referências de cores:
+- - Cor ícone do github: "#FFFFFF"
+- - Cor background: "#212121"
+- - Cor button: "#32CC56"
+- - Cor do placehould: "#D1D5DA"
+- - Cor do link: "#3B86FF"
+- - Cor Text Description: "#C0C0C0"
+- Metricas:
+- - PaddingHorizontal: 20,
+- - PaddingTop do ícone: 15,
+- - PaddingTop do Button para InputText: 15,
+- - height de Buton para Input: 54,
+- - height de InpuText para Input: 54,
+
 ### Dicas:
 
 - Para alinhar todo conteúdo de um componente ao centro basta unir as propriedades `justifyContent: “center”` e `alignItems: “center”`;
