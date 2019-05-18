@@ -21,19 +21,19 @@ Nesse projeto você desenvolverá uma tela de Login como a ilustrada acima e Fee
 ### Metricas do Projeto:
 
 - Caso queira segui os padrões/metricas do Google - Android acesse [List](https://material.io/archive/guidelines/components/lists.html#lists-specs), [Card](https://material.io/archive/guidelines/components/cards.html#cards-content), [Layout Metrics & keylines](https://material.io/archive/guidelines/layout/metrics-keylines.html#metrics-keylines-keylines-spacing) e outros (List, Card, Header, Button e etc).
-- Referências de cores:
-- - Cor ícone do github: "#FFFFFF"
-- - Cor background: "#212121"
-- - Cor button: "#32CC56"
-- - Cor do placehould: "#D1D5DA"
-- - Cor do link: "#3B86FF"
-- - Cor Text Description: "#C0C0C0"
-- Metricas:
-- - PaddingHorizontal: 20,
-- - PaddingTop do ícone: 15,
-- - PaddingTop do Button para InputText: 15,
-- - height de Buton para Input: 54,
-- - height de InpuText para Input: 54,
+- **Referências de cores**:
+- - _Cor ícone do github_: "#FFFFFF"
+- - _Cor background_: "#212121"
+- - _Cor button_: "#32CC56"
+- - _Cor do placehould_: "#D1D5DA"
+- - _Cor do link_: "#3B86FF"
+- - _Cor Text Description_: "#C0C0C0"
+- **Metricas**:
+- - _PaddingHorizontal_: 20,
+- - _PaddingTop do ícone_: 15,
+- - _PaddingTop do Button para InputText_: 15,
+- - _height de Buton para Input_: 54,
+- - _height de InpuText para Input_: 54,
 
 ### Dicas:
 
@@ -58,7 +58,7 @@ Nesse projeto você desenvolverá uma tela de Login como a ilustrada acima e Fee
 
 ### Entregar:
 
-- Esse desaﬁo precisa ser entregue **até data 25/05/2019 às 23:59** (23 horas e 59 minutos), e receberá a correção, mas você pode ver o resultado do código da atividade feito por mim aqui: **Em brave**.
+- Esse desaﬁo precisa ser entregue **até data 25/05/2019 às 23:59** (23 horas e 59 minutos), e receberá a correção, mas você pode ver o resultado do código da atividade feito por mim aqui: **Em breve**.
 - A entrega deve ser via github acessando esta [organização](https://github.com/curso-de-react-native-movimento-ti) e criando um novo repositório com seu nome, será avaliado os commits como forma de a participação.
 - PS.: Tente fazer o desaﬁo sem olhar o código antes :)
 - PS2.: Após concluir o desaﬁo, adicionar esse código ao seu Github é uma boa forma de demonstrar seus conhecimentos para oportunidades futuras :D
